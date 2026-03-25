@@ -197,7 +197,7 @@ PORT=5000
 - Pagination and infinite scroll
 - Redis caching for better performance
 - TypeScript migration
-- Deployment on Vercel (frontend) and Render (backend)
+- Deployment on AWS (EC2 for backend, S3 + CloudFront for frontend)
 
 ## What I Learned
 
